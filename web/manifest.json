@@ -1,0 +1,11 @@
+{
+    "name": "captchala_example",
+    "short_name": "captchala",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#0175C2",
+    "theme_color": "#0175C2",
+    "description": "captchala example app.",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false
+}
